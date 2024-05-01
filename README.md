@@ -1,3 +1,5 @@
+# patched lol
+
 install express and then run it with node viewstats_private.mjs
 
 then go to localhost:3482/raw?url=<apilink>
